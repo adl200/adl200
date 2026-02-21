@@ -1,7 +1,10 @@
-## Hola mi nombre es Anthony Diaz 👋
+## Hola, mi nombre es Anthony Diaz 👋
 🎓 Graduado en Administración y Dirección de Empresas
+
 📊 Máster en Analítica de Datos e Inteligencia de Negocios (UIB)
+
 🏢 Técnico de Calidad en ISO 9001:2015
+
 📍 Palma, España
 
 ## 🚀 Sobre mí
