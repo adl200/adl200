@@ -7,7 +7,7 @@
 
 📍 Palma, España
 
-## 🚀 Sobre mí
+### 🚀 Sobre mí
 Actualmente estoy cursando el Máster en Analítica de Datos e Inteligencia de Negocios, donde estoy profundizando en el análisis, transformación y visualización de datos para la toma de decisiones estratégicas.
 
 Me interesa especialmente el mundo de los datos, la Inteligencia Artificial y la automatización, y cómo estas tecnologías pueden mejorar procesos, optimizar recursos y generar valor real en las organizaciones.
