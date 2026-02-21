@@ -1,5 +1,5 @@
 ## Hola, mi nombre es Anthony Diaz 👋
-🎓 Graduado en Administración y Dirección de Empresas
+🎓 Graduado en Administración y Dirección de Empresas (UIB)
 
 📊 Máster en Analítica de Datos e Inteligencia de Negocios (UIB)
 
