@@ -15,13 +15,14 @@ Me interesa especialmente el mundo de los datos, la Inteligencia Artificial y la
 Cuento con una base en Administración y Dirección de Empresas, lo que me permite comprender tanto la parte técnica como el impacto de negocio detrás de cada análisis. Mi perfil combina visión empresarial, mentalidad analítica y orientación a la mejora continua.
 
 Este repositorio es mi espacio de crecimiento profesional 🚀
+
 Aquí comparto:
 
-📊 Proyectos académicos y casos prácticos
+ 📊 Proyectos académicos y casos prácticos
 
-🛠 Ejercicios de análisis y transformación de datos
+ 🛠 Ejercicios de análisis y transformación de datos
 
-📈 Visualizaciones
+ 📈 Visualizaciones
 
 Mi objetivo es seguir desarrollándome en el ámbito del Data & AI, construyendo proyectos que demuestren mis habilidades técnicas y mi capacidad para aportar valor desde una perspectiva analítica y estratégica.
 <!--
