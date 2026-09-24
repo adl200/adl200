@@ -26,36 +26,26 @@ Actualmente estoy especialmente interesado en seguir desarrollándome en áreas 
 
 🛠️ Tecnologías y herramientas
 
-Lenguajes y análisis de datos
+Lenguajes y análisis de datos: Python · SQL · R
 
-Python · SQL · R
+Data Science & Machine Learning: Pandas · NumPy · Scikit-learn · NLP · Time Series
 
-Data Science & Machine Learning
+Business Intelligence: Power BI · Excel · Data Visualization
 
-Pandas · NumPy · Scikit-learn · NLP · Time Series
+Data Engineering: PostgreSQL · Docker · dbt · Airflow 
 
-Business Intelligence
-
-Power BI · Excel · Data Visualization
-
-Data Engineering
-
-PostgreSQL · Docker · dbt · Airflow 
-
-Otros
-
-Git · GitHub · Jupyter · Databricks
+Otros: Git · GitHub · Jupyter · Databricks
 
 📂 Qué encontrarás en mi GitHub
 
 Este espacio recoge proyectos con los que sigo desarrollando y demostrando mis competencias en datos:
 
-📊 Análisis exploratorio y tratamiento de datos
-🤖 Machine Learning y NLP
-📈 Visualización y Business Intelligence
-⏱️ Series temporales y forecasting
-🗄️ ETL y procesamiento de datos
-💡 Proyectos orientados a problemas reales de negocio
+- 📊 Análisis exploratorio y tratamiento de datos
+- 🤖 Machine Learning y NLP
+- 📈 Visualización y Business Intelligence
+- ⏱️ Series temporales y forecasting
+- 🗄️ ETL y procesamiento de datos
+- 💡 Proyectos orientados a problemas reales de negocio
 
 Cada proyecto busca ir más allá del código, explicando el problema, metodología, tecnologías utilizadas, resultados y conclusiones.
 
