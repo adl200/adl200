@@ -24,7 +24,7 @@ Actualmente estoy especialmente interesado en seguir desarrollándome en áreas 
 - 🤖 Machine Learning & Artificial Intelligence
 - ⚙️ Automatización y optimización de procesos
 
-🛠️ Tecnologías y herramientas
+#### 🛠️ Tecnologías y herramientas
 
 Lenguajes y análisis de datos: Python · SQL · R
 
@@ -36,7 +36,7 @@ Data Engineering: PostgreSQL · Docker · dbt · Airflow
 
 Otros: Git · GitHub · Jupyter · Databricks
 
-📂 Qué encontrarás en mi GitHub
+#### 📂 Qué encontrarás en mi GitHub
 
 Este espacio recoge proyectos con los que sigo desarrollando y demostrando mis competencias en datos:
 
