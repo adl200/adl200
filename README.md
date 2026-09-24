@@ -7,7 +7,7 @@
 
 📍 Palma, España
 
-### 🚀 Sobre mí
+#### 🚀 Sobre mí
 Soy graduado en Administración y Dirección de Empresas y actualmente curso un Máster en Analítica de Datos e Inteligencia de Negocios en la Universitat de les Illes Balears.
 
 Mi perfil combina visión de negocio y análisis de datos, con especial interés en transformar información en conocimiento útil para la toma de decisiones, la optimización de procesos y la mejora del rendimiento empresarial.
