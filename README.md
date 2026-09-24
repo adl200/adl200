@@ -40,7 +40,7 @@ Power BI · Excel · Data Visualization
 
 Data Engineering
 
-PostgreSQL · Docker · dbt · Airflow · Polars
+PostgreSQL · Docker · dbt · Airflow 
 
 Otros
 
@@ -63,12 +63,6 @@ Cada proyecto busca ir más allá del código, explicando el problema, metodolog
 
 Seguir desarrollándome profesionalmente en el ámbito de Data & AI, combinando mi formación empresarial con competencias técnicas para construir soluciones basadas en datos que generen impacto real en las organizaciones.
 
-📫 Contacto
-
-💼 LinkedIn: [Añadir LinkedIn]
-📧 Email: [Añadir email]
-
-Mi objetivo es seguir desarrollándome en el ámbito del Data & AI, construyendo proyectos que demuestren mis habilidades técnicas y mi capacidad para aportar valor desde una perspectiva analítica y estratégica.
 <!--
 **adl200/adl200** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
