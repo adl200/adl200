@@ -49,7 +49,7 @@ Este espacio recoge proyectos con los que sigo desarrollando y demostrando mis c
 
 Cada proyecto busca ir más allá del código, explicando el problema, metodología, tecnologías utilizadas, resultados y conclusiones.
 
-🎯 Objetivo profesional
+#### 🎯 Objetivo profesional
 
 Seguir desarrollándome profesionalmente en el ámbito de Data & AI, combinando mi formación empresarial con competencias técnicas para construir soluciones basadas en datos que generen impacto real en las organizaciones.
 
