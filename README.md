@@ -18,11 +18,11 @@ También cuento con experiencia en gestión de calidad y mejora de procesos bajo
 
 Actualmente estoy especialmente interesado en seguir desarrollándome en áreas como:
 
-📊 Data Analytics
-📈 Business Intelligence
-🗄️ Data Engineering
-🤖 Machine Learning & Artificial Intelligence
-⚙️ Automatización y optimización de procesos
+- 📊 Data Analytics
+- 📈 Business Intelligence
+- 🗄️ Data Engineering
+- 🤖 Machine Learning & Artificial Intelligence
+- ⚙️ Automatización y optimización de procesos
 
 🛠️ Tecnologías y herramientas
 
